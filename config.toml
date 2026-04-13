@@ -1,5 +1,5 @@
 MetaDataFormat = "yaml"
-baseurl = "https://kieranhealy.org/"
+baseurl = "/"
 title = "kieranhealy.org"
 rssLimit = 20
 
